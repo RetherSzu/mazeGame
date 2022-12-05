@@ -20,8 +20,6 @@ Pour permettre de faire bouger le personnage il faut utiliser les flèches du cl
 
 - [x] maze
 
-- [ ]
-
 mouvement de la caméra
 
 ### But du jeu :

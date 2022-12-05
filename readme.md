@@ -2,7 +2,7 @@
 
 ### Les mouvements :
 
-Pour permettre de faire bouger le personnage il faut utiliser les fléches du clavier. Dans le menu pour selectionner les options il faut appuyer sur la touche entrée du clavier.
+Pour permettre de faire bouger le personnage il faut utiliser les flèches du clavier. Dans le menu pour sélectionner les options il faut appuyer sur la touche entrée du clavier.
 
 ### Gestion des ombres, champ de vision:
 
@@ -26,4 +26,4 @@ mouvement de la caméra
 
 ### But du jeu :
 
-Pour finir le jeu il faut trouver la sorti du labyrinthe dans un temps limité
+Pour finir le jeu il faut trouver la sortie du labyrinthe dans un temps limité

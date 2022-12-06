@@ -6,7 +6,7 @@ Pour permettre de faire bouger le personnage il faut utiliser les flèches du cl
 
 ### Gestion des ombres, champ de vision:
 
-![1.PNG](data/images_readme/1.PNG)
+![1.PNG](data/images_readme/mazeGame.png)
 
 ### A faire:
 
